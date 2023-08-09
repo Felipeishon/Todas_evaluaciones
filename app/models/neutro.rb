@@ -1,0 +1,2 @@
+class Neutro < ApplicationRecord
+end
